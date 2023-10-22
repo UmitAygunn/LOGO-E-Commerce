@@ -4,6 +4,9 @@ This project is an e-commerce website created using HTML, CSS, and JavaScript. I
 
 # Demo
 
+![Logo E-Commerce](https://github.com/UmitAygunn/LOGO-E-Commerce/assets/140657845/e5e55973-a82b-4d3d-b7d4-9e7df3579c08)
+
+
 Live Demo - Explore the live demo of the e-commerce website to shop for items, add them to your cart, and experience the functionality of the website.
 1) https://65358b4857ebb92e1c9f6ec6--snazzy-cuchufli-144378.netlify.app/
 
