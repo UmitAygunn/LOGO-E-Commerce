@@ -1,4 +1,4 @@
-# LOGO-E-Commerce
+# LOGO E-Commerce
 
 This project is an e-commerce website created using HTML, CSS, and JavaScript. It incorporates product data fetched from an API, allowing users to browse, add, and remove items from their shopping cart.
 
